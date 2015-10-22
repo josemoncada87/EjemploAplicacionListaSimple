@@ -39,9 +39,5 @@ public class MainActivity extends AppCompatActivity {
                 adaptadorDeItems.notifyDataSetChanged(); // informa que se modificaron los datos para poder actualizar la vista
             }
         });
-
-
-
-
     }
 }
